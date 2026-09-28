@@ -112,3 +112,45 @@ https://github.com/Nitesh0Dev/placement-tracker
                   │      MongoDB        │
                   │  placement_tracker  │
                   └─────────────────────┘
+
+
+
+# 📸 Screenshots
+
+## 📊 Dashboard
+
+The dashboard provides a quick overview of applications, interviews, follow-ups, and recent placement activity.
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 📝 Applications
+
+Manage job applications with search, filtering, sorting, status tracking, priorities, and application details.
+
+![Applications](screenshots/applications.png)
+
+---
+
+## 💼 Job Board
+
+Browse selected job opportunities and track interesting positions directly from the application.
+
+![Job Board](screenshots/job-board.png)
+
+---
+
+## 📈 Analytics
+
+Visualize application progress and understand the overall placement pipeline.
+
+![Analytics](screenshots/analytics.png)
+
+---
+
+## ⚙️ Settings
+
+Customize the application experience, including theme preferences and other settings.
+
+![Settings](screenshots/settings.png)
